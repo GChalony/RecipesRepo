@@ -2,8 +2,8 @@ Title: Crêpes
 Author: Gregoire
 Image: crepes.jpg
 Tags:
- - plat
- - dessert
+ - Repas
+ - Dessert
 ---
 
 # Ingredients

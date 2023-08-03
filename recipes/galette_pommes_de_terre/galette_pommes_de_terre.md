@@ -2,7 +2,7 @@ Title: Galette de pommes de terre
 Author: Gregoire
 Image: Galettes-de-pommes-de-terre.jpg
 Tags:
- - plat
+ - Repas
 ---
 
 # Ingredients
