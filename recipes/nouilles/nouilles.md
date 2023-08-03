@@ -1,5 +1,6 @@
 Title: Nouilles au tofu
 Author: Jean
+Image: pad-thai.jpg
 Tags:
  - Repas
  - Asiatique

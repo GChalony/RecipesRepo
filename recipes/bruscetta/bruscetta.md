@@ -1,5 +1,6 @@
 Title: Bruscetta
 Author: Jean
+Image: bruscetta.jpg
 Tags:
  - Repas
  - Italien
