@@ -19,7 +19,7 @@ Faire fondre le beurre à feu doux à la casserole, puis rajouter la farine pour
 
 Séparément, faire bouillir le lait. Attention, le lait bouillant a tendance à déborder !
 
-Incorporer le lait au roussi en mélangeant énergétiquement pour éviter les grumeau. Le résultat doit être une texture assez liquide. Continuer à mélanger sur feu doux, jusqu'à ce que la pate s'épaississe et tienne sur la spatule.
+Incorporer le lait au roux en mélangeant énergétiquement pour éviter les grumeau. Le résultat doit être une texture assez liquide. Continuer à mélanger sur feu doux, jusqu'à ce que la pate s'épaississe et tienne sur la spatule.
 
 ## Légumes
 
