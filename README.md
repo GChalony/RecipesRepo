@@ -9,11 +9,12 @@ Recipes are written in Markdown, with a YAML header.
 Example
 ```md
 ---
-Icon: soupe_aux_choux.png
+Title: Soupe aux choux
+Image: soupe_aux_choux.png
 Author: My Name
 Tags: soupe, desert
 ---
-# Soupe aux choux
+# Instructions
 
 Recette d'une délicieuse soupe au choux
 ```
